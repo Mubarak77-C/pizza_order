@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pizza_order/static/css/main.d0434e9a.chunk.css",
+    "main.js": "/pizza_order/static/js/main.41f81646.chunk.js",
+    "main.js.map": "/pizza_order/static/js/main.41f81646.chunk.js.map",
+    "runtime-main.js": "/pizza_order/static/js/runtime-main.761fc9a5.js",
+    "runtime-main.js.map": "/pizza_order/static/js/runtime-main.761fc9a5.js.map",
+    "static/js/2.f6132584.chunk.js": "/pizza_order/static/js/2.f6132584.chunk.js",
+    "static/js/2.f6132584.chunk.js.map": "/pizza_order/static/js/2.f6132584.chunk.js.map",
+    "index.html": "/pizza_order/index.html",
+    "precache-manifest.fada5ab5488638c231ff612fa708acee.js": "/pizza_order/precache-manifest.fada5ab5488638c231ff612fa708acee.js",
+    "service-worker.js": "/pizza_order/service-worker.js",
+    "static/css/main.d0434e9a.chunk.css.map": "/pizza_order/static/css/main.d0434e9a.chunk.css.map",
+    "static/js/2.f6132584.chunk.js.LICENSE.txt": "/pizza_order/static/js/2.f6132584.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.761fc9a5.js",
+    "static/js/2.f6132584.chunk.js",
+    "static/css/main.d0434e9a.chunk.css",
+    "static/js/main.41f81646.chunk.js"
+  ]
+}
