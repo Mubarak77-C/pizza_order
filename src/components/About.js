@@ -25,7 +25,7 @@ const About = () => {
                     </div>
                     <div className="col-6">
                         <div className="about_img">
-                            <img src="/img/pizza2.jpg" alt="pizza img" />
+                            <img src="./img/pizza2.jpg" alt="pizza img" />
                         </div>
                     </div>
                 </div>
