@@ -6,7 +6,7 @@ const App = () => {
   const [num, setNum] = useState(0);
 
   useEffect(() => {
-   alert("Welcome To My Pizza Order")
+   alert("Welcome To My Pizza Website")
   });
 
 
