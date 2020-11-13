@@ -25,7 +25,7 @@ const About = () => {
                     </div>
                     <div className="col-6">
                         <div className="about_img">
-                            <img src="Mubarak77-C.github.io/pizza_order/img/pizza2.jpg" alt="pizza img" />
+                            <img src="Mubarak77-C.github.io/pizza_order/img/pizza2.JPG" alt="pizza img" />
                         </div>
                     </div>
                 </div>
