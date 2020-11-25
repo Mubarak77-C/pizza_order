@@ -18,7 +18,7 @@ const Menu = () => {
                     </div>
                     <div className="col-6">
                         <div className="menu_img">
-                            <img src="/img/pizza1.jpg" alt="pizza img" />
+                            <img src="../img/pizza1.jpg" alt="pizza img" />
                         </div>
                     </div>
                 </div>
