@@ -10,7 +10,7 @@ const About = () => {
                     <div className="col-6 p-25">
                         <div className="banner-txt">
                             <h3>About Us</h3>
-                            <h1>Welcome to A1-Pizza</h1>
+                            <h1>Welcome to MY A1-Pizza</h1>
                             <p>LIn Italy, pizza served in formal settings, such as at a restaurant,
                             is presented unsliced, and is eaten with the use of a knife and fork.
                             In casual settings, however, it is cut into wedges to be eaten while held in the hand.
@@ -25,7 +25,7 @@ const About = () => {
                     </div>
                     <div className="col-6">
                         <div className="about_img">
-                            <img src="Mubarak77-C.github.io/pizza_order/img/pizza2.JPG" alt="pizza img" />
+                            <img src="public/img/pizza2.jpg" alt="pizza img" />
                         </div>
                     </div>
                 </div>
